@@ -42,7 +42,4 @@ RepairOS-Project/
 | CSS Custom Properties | Consistent theming across all components |
 | ES6 Modules | Clean separation of data, logic, and rendering |
 
-## 👤 Author
 
-**Arjun Rathi** — B.Tech CSE, 3rd Year  
-College Project — Web Development & DBMS
