@@ -41,3 +41,8 @@ RepairOS-Project/
 | In-memory JS DB | Simulates SQL tables without backend setup |
 | CSS Custom Properties | Consistent theming across all components |
 | ES6 Modules | Clean separation of data, logic, and rendering |
+
+## 👤 Author
+
+**Arjun Rathi** — B.Tech CSE, 3rd Year  
+College Project — Web Development & DBMS
